@@ -40,6 +40,7 @@ A propriedade border-radius pode ter vários valores alterados. Visualize a apar
 - [Css](https://www.w3schools.com/css/css_intro.asp)
 - [Styled-components](https://styled-components.com/)
 - [React-Toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [react-syntax-highlighter](https://conorhastings.github.io/react-syntax-highlighter/demo/)
 
 ---
 
