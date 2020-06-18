@@ -51,7 +51,7 @@ A propriedade border-radius pode ter vários valores alterados. Visualize a apar
 ```bash
 
  # Clonar o repositório
- $ git clone https://github.com/CristianWesleyFront/Bin2Dec
+ $ git clone https://github.com/CristianWesleyFront/Border-Radius-Previewer
 
  # Entrar no diretorio
  $ cd Border-Radius-Previewer
@@ -70,7 +70,7 @@ A propriedade border-radius pode ter vários valores alterados. Visualize a apar
 ```bash
 
  # Clonar o repositório
- $ git clone https://github.com/CristianWesleyFront/Bin2Dec
+ $ git clone https://github.com/CristianWesleyFront/Border-Radius-Previewer
 
  # Entrar no diretorio
  $ cd Border-Radius-Previewer
