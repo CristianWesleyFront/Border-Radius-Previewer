@@ -1,7 +1,7 @@
 # Border-Radius-Previewer
 
 <h1 align="center">
- <a href="https://cdn7s.csb.app/">  <img src="https://media.giphy.com/media/l37KBNtT4bLZkuDxmJ/giphy.gif" width="85%"> </a> 
+ <a href="https://xiwf5.csb.app/">  <img src="https://media.giphy.com/media/l37KBNtT4bLZkuDxmJ/giphy.gif" width="85%"> </a> 
 </h1>
 
 <h3 align="center"> 
@@ -54,7 +54,7 @@ A propriedade border-radius pode ter vários valores alterados. Visualize a apar
  $ git clone https://github.com/CristianWesleyFront/Bin2Dec
 
  # Entrar no diretorio
- $ cd Bin2Dec
+ $ cd Border-Radius-Previewer
 
  # Instalar as dependências
  $ yarn install
@@ -73,7 +73,7 @@ A propriedade border-radius pode ter vários valores alterados. Visualize a apar
  $ git clone https://github.com/CristianWesleyFront/Bin2Dec
 
  # Entrar no diretorio
- $ cd Bin2Dec
+ $ cd Border-Radius-Previewer
 
  # Instalar as dependências
  $ npm i
